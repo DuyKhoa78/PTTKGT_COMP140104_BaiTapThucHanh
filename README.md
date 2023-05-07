@@ -1,2 +1,2 @@
-# PTTKGT_COMP140104_DequyQuayLui
+# PTTKGT_COMP140104_BaiTapThucHanh
 HuynhDuyKhoa_47.01.103.055
